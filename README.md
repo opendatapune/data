@@ -1,6 +1,8 @@
 # data
 Links to datasets
 
+[[Pune ward boundaries shapefiles]](https://github.com/datameet-pune/datameet-pune.github.io/tree/master/maps) 2017 onwards and previous, in .geojson format
+
 Pune Tree Census draft data: [download zipped csv](http://nikhilvj.co.in/files/trees/trees_all_clean1.csv.zip) (64MB)  
 Disclaimer : This is draft data, is in need of analysis and feedback, so no guarantees of accuracy.
 
