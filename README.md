@@ -1,7 +1,10 @@
 # data
 ## Links to datasets
 
-**[[Pune ward boundaries shapefiles]](https://github.com/datameet-pune/datameet-pune.github.io/tree/master/maps)** 2017 onwards and previous, in .geojson format
+**[Pune Open Data Portal](http://opendata.punecorporation.org)** : 400+ datasets listed, precise links will be shared in the respective tasks.
+
+
+**[Pune ward boundaries shapefiles](https://github.com/datameet-pune/datameet-pune.github.io/tree/master/maps)** 2017 onwards and previous, in .geojson format
 
   
 
