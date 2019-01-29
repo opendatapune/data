@@ -9,9 +9,13 @@ Disclaimer : This is draft data, is in need of analysis and feedback, so no guar
 PMPML static gtfs data as of Jan 2019 : [download zip](http://nikhilvj.co.in/files/pmpml/pmpml-gtfs.zip) (8MB)  
 Note: Study [GTFS specifications](https://developers.google.com/transit/) for details about this data's structure
 
-PMPML vehicle position logs, from 2019-01-19 16:00:39 to 2019-01-27 18:00:30 IST, converted to flat CSV and duplicates removed:
+PMPML vehicle position logs, from 2019-01-19 16:00 to 2019-01-27 18:00 IST, converted to flat CSV and duplicates removed:
  [download .tar.gz of csv](http://nikhilvj.co.in/files/pmpml/pmpml_gpslogs_19.1.19_4pm_to_27.1.19_6pm.tar.gz) (128MB)  
-Disclaimer : This is not of all buses/routes, and is primary data put up for analysis, so no guarantees of accuracy.
+Disclaimer : This may not cover all buses/routes, and is primary data put up for analysis, so no guarantees of accuracy.
 
 Maharashtra Village boundaries : [download zipped shapefile](https://drive.google.com/open?id=0B3gxOiUzXTR-RVdZNXh4X1huUG8)  
-Disclaimer: This is gathered from unofficial sources, can be inaccurate. Link is posted for purpose of data cleaning.
+Disclaimer: This is gathered from unofficial sources, can be inaccurate. Link is posted for purpose of data analysis, auditing by comparing with officially released PDFs, and documentation.
+
+
+#### General Disclaimer
+All data files and links posted here are for the purpose of data cleaning, analysis, documentation in hackathon. It is not intended for any other purpose, and there is absolutely no guarantee of accuracy or completeness. The hackathon activities may end up improving the data in some cases. We humbly request people looking for data for commercial / research purposes to go look elsewhere.
