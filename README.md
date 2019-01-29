@@ -15,7 +15,7 @@ Disclaimer : This is draft data, is in need of analysis and feedback, so no guar
 ----
 
 **PMPML static gtfs data as of Jan 2019** : [download zip](http://nikhilvj.co.in/files/pmpml/pmpml-gtfs.zip) (8MB)  
-Note: Study [GTFS specifications](https://developers.google.com/transit/) for details about this data's structure
+Note: Study [GTFS specifications](https://developers.google.com/transit/) for details about this data's structure, and you can explore feeds from around the world [on this site](https://transitfeeds.com/).
 
 ----
 
@@ -25,8 +25,8 @@ Disclaimer : This may not cover all buses/routes, and is primary data put up for
 
 ----
   
-**Maharashtra Village boundaries** : [download zipped shapefile](https://drive.google.com/open?id=0B3gxOiUzXTR-RVdZNXh4X1huUG8) (45k+ shapes) 
-Disclaimer: This is gathered from unofficial sources, can be inaccurate. Link is posted for purpose of data analysis, auditing by comparing with officially released PDFs, and documentation.
+**Maharashtra Village boundaries** : [download zipped shapefile](https://drive.google.com/open?id=0B3gxOiUzXTR-RVdZNXh4X1huUG8) (45k+ polygon shapes with district, taluka, village name and codes as per census 2011) 
+Disclaimer: This data is compiled from unofficial sources, has not been checked for accuracy. Link is posted for purpose of data analysis, auditing by comparing with officially released PDFs, and documentation.
 
 ----
 
