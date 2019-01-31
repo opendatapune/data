@@ -1,7 +1,8 @@
 # data
 ## Links to datasets
 
-**[Pune Open Data Portal](http://opendata.punecorporation.org)** : 400+ datasets listed, precise links will be shared in the respective tasks.
+**[Pune Open Data Portal](http://opendata.punecorporation.org)** : 400+ datasets listed, precise links will be shared in the respective tasks.  
+You can also see [this tabular listing](https://drive.google.com/open?id=10DQBIXHcC5LvRD6z-kpFbC20Hv7xen9yYzO6AWPU6HE) of the same
 
 ----
 
