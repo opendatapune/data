@@ -27,7 +27,7 @@ Disclaimer : This may not cover all buses/routes, and is primary data put up for
 ----
 
 **PMJDY data** : [download from github](https://github.com/datameet-pune/pmjdy) 14k+ rows  
-Weekly data on Pradhan Mantri Jan Dhan Yojana Central scheme, granularity down to banks. Most columns are of number of beneficiaries, one column is giving total money deposited.
+Weekly data on Pradhan Mantri Jan Dhan Yojana Central scheme, granularity down to banks. Most columns are of number of beneficiaries, one column is giving total money deposited. See the data/data.csv file in the repo to get the accumulated data in one file.
 
 ----
   
