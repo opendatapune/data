@@ -25,6 +25,11 @@ Note: Study [GTFS specifications](https://developers.google.com/transit/) for de
 Disclaimer : This may not cover all buses/routes, and is primary data put up for analysis, so no guarantees of accuracy.
 
 ----
+
+**PMJDY data** : [download from github](https://github.com/datameet-pune/pmjdy) 14k+ rows  
+Weekly data on Pradhan Mantri Jan Dhan Yojana Central scheme, granularity down to banks. Most columns are of number of beneficiaries, one column is giving total money deposited.
+
+----
   
 **Maharashtra Village boundaries** : [download zipped shapefile](https://drive.google.com/open?id=0B3gxOiUzXTR-RVdZNXh4X1huUG8) (45k+ polygon shapes with district, taluka, village name and codes as per census 2011) 
 Disclaimer: This data is compiled from unofficial sources, has not been checked for accuracy. Link is posted for purpose of data analysis, auditing by comparing with officially released PDFs, and documentation.
