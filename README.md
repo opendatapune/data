@@ -13,6 +13,8 @@ You can also see [this tabular listing](https://drive.google.com/open?id=10DQBIX
 **Pune Tree Census draft data**: [download zipped csv](http://nikhilvj.co.in/files/trees/trees_all_clean1.csv.zip) (64MB, 3.2 million tree locations with detail attributes like species, height etc)  
 Disclaimer : This is draft data, is in need of analysis and feedback, so no guarantees of accuracy.
 
+Addition: [download zipped sqlite db](https://nikhilvj.co.in/files/podp/treecensusDB.7z) [60MB, same as above but in a sqlite db)
+
 ----
 
 **PMPML static gtfs data as of Jan 2019** : [download zip](http://nikhilvj.co.in/files/pmpml/pmpml-gtfs.zip) (8MB)  
@@ -23,6 +25,8 @@ Note: Study [GTFS specifications](https://developers.google.com/transit/) for de
 **PMPML vehicle position logs**, from 2019-01-19 16:00 to 2019-01-27 18:00 IST, converted to flat CSV and duplicates removed:
  [download .tar.gz of csv](http://nikhilvj.co.in/files/pmpml/pmpml_gpslogs_19.1.19_4pm_to_27.1.19_6pm.tar.gz) (128MB, 3.7 million rows)  
 Disclaimer : This may not cover all buses/routes, and is primary data put up for analysis, so no guarantees of accuracy.
+
+Addition: GPS logs from 8 to 18 Feb 2019 : [download zipped sqlite db](https://nikhilvj.co.in/files/podp/pmpmlDB.7z) (70MB, 3.2 million rows)
 
 ----
 
